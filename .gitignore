@@ -1,0 +1,16 @@
+# Executables
+*.exe
+
+# Cmake Files
+*.cmake*
+*.txt
+Makefile
+
+# Folders
+obj/
+bin/
+.vs/
+CMakeFiles/
+
+# Files
+.vscode/*
